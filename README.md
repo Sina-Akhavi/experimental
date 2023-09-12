@@ -6,5 +6,5 @@ My name is **Sina Akhavi**
 2. India
 3. Brazil
 
-`a = b + c`
+`a = b + c`  
 `c += b`
