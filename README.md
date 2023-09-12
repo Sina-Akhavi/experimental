@@ -5,3 +5,6 @@ My name is **Sina Akhavi**
 1. China
 2. India
 3. Brazil
+
+`a = b + c`  
+`c += b`
